@@ -3,7 +3,7 @@ Oi gente, Welcom to my github page  👋
 
 I’m currently learning React Native
 
-Fun fact: I'm almost learning everything these days 
+Fun fact: I'm learning almost everything these days 
 
 Contact me on 
 
