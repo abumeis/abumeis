@@ -1,7 +1,7 @@
 Oi gente, Welcom to my github page  👋
 
 
-I’m currently learning React Native
+I’m currently learning MongoDB
 
 Fun fact: I'm learning almost everything these days 
 
