@@ -1,7 +1,7 @@
 Oi gente, Welcom to my github page  👋
 
 
-I’m currently learning MongoDB
+I’m currently learning Vue and Nuxt
 
 Fun fact: I'm learning almost everything these days 
 
