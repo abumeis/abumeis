@@ -1,13 +1,13 @@
 Oi gente, Welcom to my github page  👋
 
 
-I’m currently learning Vue and Nuxt
+After an amazing six months of experience at Europages company I can say today Vue and Nuxt.js are the best framework I've ever worked with so far 
 
 Fun fact: I'm learning almost everything these days 
 
 Contact me on 
 
-<a href="https://www.linkedin.com/in/ahmed-abu-meis-a02a0617a/">
+<a href="https://www.linkedin.com/in/ahmed-abu-meis/">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 
