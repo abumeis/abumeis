@@ -1,7 +1,7 @@
 Oi gente, Welcom to my github page  👋
 
 
-After an amazing six months of experience at Europages company I can say today Vue and Nuxt.js are the best framework I've ever worked with so far 
+Vue and Nuxt.js are the best frameworks I've ever worked with so far 
 
 Fun fact: I'm learning almost everything these days 
 
